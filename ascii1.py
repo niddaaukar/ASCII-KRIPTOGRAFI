@@ -1,3 +1,6 @@
+import streamlit as st
+
+
 from tkinter import * # Import tkinter untuk GUI (Graphical User Interface) nya saja
 import math # Import math untuk menghitung logaritma basis 2 (log2) nya saja (untuk menghitung entropi Shannon) 
 import hashlib # Import hashlib untuk menghitung hash dari teks (untuk menghitung Avalanche Effect) nya saja (untuk menghitung entropi Shannon) 
